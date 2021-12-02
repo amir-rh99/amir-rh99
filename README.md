@@ -32,7 +32,7 @@
 
 ![Nikita's Github stats](https://github-readme-stats.vercel.app/api?username=dart-coder&show_icons=true&hide_border=true)
 
-![Nikita's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakanikita&hide_border=true&v=2)
+![Nikita's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?amir_rh99=wakanikita&hide_border=true&v=2)
 
 <a href="https://dev.to/dartcoder">
   <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Nikita's DEV Profile" height="30" width="30">
