@@ -16,6 +16,6 @@
 
 ### ⭐ GitHub Stats
 
-![AmiReza's Github stats](https://github-readme-stats.vercel.app/api?username=amir_rh99&show_icons=true&hide_border=true)
+![AmiReza's Github stats](https://github-readme-stats.vercel.app/api?username=amir-rh99&show_icons=true&hide_border=true)
 
 ![AmiReza's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@amir_rh99)
