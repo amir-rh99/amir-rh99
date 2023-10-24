@@ -1,7 +1,7 @@
 ### 👋 Hi I'm AmirReza
 
 - 🌱 I’m Front-End developer since 2019
-- 👨‍💻 I’m currently working **Angular, React.js and Node.js**
+- 👨‍💻 I’m currently working **Angular, React.js and Next.js**
 
 ### 📐 Languages and Tools
 
