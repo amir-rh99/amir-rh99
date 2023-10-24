@@ -13,10 +13,5 @@
 <img align="left" height="32px" width="32px" alt="React logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="left" height="32px" width="32px" alt="Next.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://bit.ly/3qZmQcU">
 
 <br/>
-
-### ⭐ GitHub Stats
-
-![AmiReza's Github stats](https://github-readme-stats.vercel.app/api?username=amir-rh99&show_icons=true&theme=dracula&count_private=true&hide=issues)
