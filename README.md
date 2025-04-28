@@ -1,17 +1,25 @@
-### 👋 Hi I'm AmirReza
+# 👋 Hi, I'm AmirReza Hammamian
 
-- 🌱 I’m Front-End developer since 2019
-- 👨‍💻 I’m currently working **Angular, React.js and Next.js**
+> Front-End Developer with 5+ years of experience building modern web applications
 
-### 📐 Languages and Tools
+## 💻 Technical Stack
 
-<img align="left" height="32px" width="32px" alt="HTML logo" src="https://bit.ly/3gP4Qgx">
-<img align="left" height="32px" width="32px" alt="CSS logo" src="https://bit.ly/37iML7j">
-<img align="left" height="32px" width="32px" alt="JS logo" src="https://bit.ly/3r1kzxY">
-<img align="left" height="32px" width="32px" alt="TS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="left" height="32px" width="32px" alt="Angular logo" src="https://angular.io/assets/images/logos/angular/angular.svg">
-<img align="left" height="32px" width="32px" alt="React logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="left" height="32px" width="32px" alt="Next.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-<img align="left" height="32px" width="32px" alt="Node.js logo" src="https://bit.ly/3rw9m8C">
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<br/>
+## 🔍 Focus Areas
+
+- Modern React & Next.js development with SSR/SSG optimizations
+- Clean architecture with TypeScript and design patterns
+- Efficient state management solutions (React Query, Zustand)
+- Responsive UI development with Tailwind CSS & Shadcn
+- Performance optimization & SEO best practices
+- Real-time applications with WebRTC & Socket.io
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amir-rh99)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://amir-rh99.github.io/resume/)
